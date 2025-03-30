@@ -130,10 +130,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 For questions or feedback, please reach out to:
-- **Name**: Siddharth Kharche
-- **Email**: siddukharche04@gmail.com
-- **GitHub**: [siddharth-Kharche](https://github.com/siddharth-Kharche)
+- **Name**: Stanley Uzum
+- **Email**: stanleyuzum@gmail.com
 
----
 
-**Happy Conversing!** :books: :speech_balloon:
